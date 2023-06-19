@@ -27,7 +27,6 @@ while (true) {
     alert("Por favor ingresa un numero valido de 3 digitos.");
     continue;
   }
-  // || !/^\d+$/.test(numbersEntry)
   let pikes = 0;
   let fixed = 0;
 
